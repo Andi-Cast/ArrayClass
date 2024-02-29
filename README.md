@@ -10,4 +10,4 @@
 -----
 
 ## **UML Diagram**
-<img src="https://github.com/Andi-Cast/Array_Class/blob/main/ArrayClassUML.png" height="60" width="60" >
+<img src="https://github.com/Andi-Cast/Array_Class/blob/main/ArrayClassUML.png" height="auto" width="50%" >
