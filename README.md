@@ -10,4 +10,4 @@
 -----
 
 ## **UML Diagram**
-![Array UML Diagram](https://github.com/Andi-Cast/Array_Class/blob/main/ArrayClassUML.png | width = 100)
+<img src="https://github.com/Andi-Cast/Array_Class/blob/main/ArrayClassUML.png" height="60" width="60" >
