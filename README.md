@@ -21,6 +21,6 @@
   - 'make clean' : to remove additional files during compilation
 
 -----
-##**Addition Notes**
-######This was originally compiled using [MPC](https://github.com/DOCGroup/MPC). I made my own Makefile to make things easier.
+## **Addition Notes**
+###### This was originally compiled using [MPC](https://github.com/DOCGroup/MPC). I made my own Makefile to make things easier.
 -----
