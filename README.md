@@ -10,7 +10,7 @@
 -----
 
 ## **UML Diagram**
-#######This was not provided. I just included it for demonstration purposes.
+####### This was not provided. I just included it for demonstration purposes.
 <img src="https://github.com/Andi-Cast/Array_Class/blob/main/ArrayClassUML.png" height="auto" width="50%" >
 
 -----
