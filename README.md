@@ -17,7 +17,7 @@
 ## **How To Run Program**
 - Download Repository
 - In Command Line:
-  - 'make run' : compiles and runs program (edit driver.cpp to test functions)
+  - 'make run' : compiles and runs program (edit driver.cpp to test methods)
   - 'make clean' : to remove additional files during compilation
 
 -----
